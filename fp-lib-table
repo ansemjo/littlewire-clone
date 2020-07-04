@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name lwclone)(type KiCad)(uri ${KIPRJMOD}/lwclone.pretty)(options "")(descr ""))
+)

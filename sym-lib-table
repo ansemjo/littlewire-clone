@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name lwclone)(type Legacy)(uri ${KIPRJMOD}/lwclone.lib)(options "")(descr ""))
+)
