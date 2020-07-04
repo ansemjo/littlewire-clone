@@ -14,12 +14,12 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L dk_USB-DVI-HDMI-Connectors:10118194-0001LF USB1
+L lwclone:10118194-0001LF USB1
 U 1 1 5F00AF57
 P 1250 3750
 F 0 "USB1" H 1314 4495 60  0000 C CNN
 F 1 "10118194-0001LF" H 1314 4389 60  0000 C CNN
-F 2 "digikey-footprints:USB_Micro_B_Female_10118194-0001LF" H 1450 3950 60  0001 L CNN
+F 2 "lwclone:USB_Micro_B_Female_10118194-0001LF" H 1450 3950 60  0001 L CNN
 F 3 "http://www.amphenol-icc.com/media/wysiwyg/files/drawing/10118194.pdf" H 1450 4050 60  0001 L CNN
 F 4 "609-4618-1-ND" H 1450 4150 60  0001 L CNN "Digi-Key_PN"
 F 5 "10118194-0001LF" H 1450 4250 60  0001 L CNN "MPN"
@@ -171,7 +171,7 @@ Wire Wire Line
 Wire Wire Line
 	5550 3950 5650 3950
 $Comp
-L MCU_Microchip_ATtiny:ATtiny85-20PU U1
+L lwclone:ATtiny85-20PU U1
 U 1 1 5F009EBD
 P 4950 3750
 F 0 "U1" H 4421 3796 50  0000 R CNN
