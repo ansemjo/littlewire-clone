@@ -14,3 +14,7 @@ directly.
 
 I have just ordered the first batch thorugh https://aisler.net/. I will
 continue documenting software steps once those boards arrive.
+
+**Update 2020-07-15:** the PCBs arrived today :)
+
+![](pictures/firstbatch-rev1.0.jpg)
