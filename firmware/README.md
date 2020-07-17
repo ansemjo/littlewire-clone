@@ -4,7 +4,8 @@ This is the `firmware/` subdirectory from Ihsan Kehribar's project at
 [github.com/littlewire/Little-Wire](https://github.com/littlewire/Little-Wire).
 
 It is simply downloaded from commit [d918a4b](https://github.com/littlewire/Little-Wire/commit/d918a4ba1ccae27ef02997fd5512054f45110619)
-and vendored in full. No files were modified by me.
+and vendored in full. No files were modified by me. It is therefore the
+**Little Wire Release v1.3**.
 
 For more information and compatible software libraries checkout his page
 at [littlewire.github.io](https://littlewire.github.io/)!
