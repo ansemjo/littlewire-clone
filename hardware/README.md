@@ -3,12 +3,12 @@
 This directory describes a KiCad 5.1.6 project directory for my clone of
 the Little Wire project by Ihsan Kehribar.
 
-![](hardware/pcbrender_front.png)
-![](hardware/pcbrender_back.png)
+![](pcbrender_front.png)
+![](pcbrender_back.png)
 
 ## Bill of Materials
 
-Here is an informatl BOM with the parts I used for my two boards so far.
+Here is an informal BOM with the parts I used for my two boards so far.
 Note that some of the values don't match with the schematic; I used some parts
 that I had available from previous orders where it shouldn't make too much of
 a difference anyway.
